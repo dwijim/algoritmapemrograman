@@ -1,3 +1,6 @@
+#contoh proses tumpukan secara manual menggunakan array
+#dwi sakethi, 12 maret 2026
+
 #data simulasi
 data = [1, 2, 3, 5, 7, 10]
 
